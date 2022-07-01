@@ -19,3 +19,6 @@ NOTE: Year range is between 2010 and 2020
 
 Here a screenshot:
 ![Alt text](/Screenshot.png?raw=true "Optional Title")
+
+Autor
+Alexis Dir
