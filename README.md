@@ -21,4 +21,4 @@ Here a screenshot:
 ![Alt text](/Screenshot.png?raw=true "Optional Title")
 
 Autor
-Alexis Dir
+<br>Alexis Dir
